@@ -48,7 +48,7 @@
 		<a class='text' target="_blank" href="https://scp-wiki.wikidot.com/scp-507">#507</a>
 	</header>
 	<main>
-		<video autoplay loop muted width="200" height="200" class="avatar" src="./avatar.mp4">
+		<video autoplay loop muted width="200" height="200" class="avatar" src="./src/assets/avatar.mp4">
 			A man moving his hands away from his forehead sideways, in a mind-explosion gesture. An overlaid animation enforces the explosion character.
 		</video>
 	</main>
